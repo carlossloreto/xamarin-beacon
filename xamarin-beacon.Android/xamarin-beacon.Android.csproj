@@ -16,7 +16,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v9.0</TargetFrameworkVersion>
     <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
     <AndroidUseAapt2>true</AndroidUseAapt2>
@@ -119,7 +118,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\xamarin-beacon\xamarin-beacon.csproj">
-      <Project>{65340F16-F2D7-4924-B1EE-31302E2D7F5A}</Project>
+      <Project>{B3B1BD9C-08C8-477E-8422-874A4AFD3D19}</Project>
       <Name>xamarin-beacon</Name>
     </ProjectReference>
   </ItemGroup>
